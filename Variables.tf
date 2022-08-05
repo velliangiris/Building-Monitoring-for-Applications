@@ -33,6 +33,7 @@ variable "port_list" {
     80,
     8080,
   ]
+  
 }
 
 variable "instance" {  
